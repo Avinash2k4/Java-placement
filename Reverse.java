@@ -18,3 +18,6 @@ class Reverse
 		System.out.println(ans);
 	}
 }
+
+op:
+fedcba
