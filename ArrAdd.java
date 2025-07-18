@@ -12,3 +12,6 @@ public class ArrAdd {
         System.out.print(Arrays.toString(c));
     }
 }
+
+// op:
+// [50, 50, 50, 90]
