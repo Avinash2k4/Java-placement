@@ -1,3 +1,5 @@
+ZOHO : ROUND 2
+
 import java.util.*;
 public class Magic {
     public static void main(String[]args){
@@ -31,4 +33,8 @@ public class Magic {
         }
     }
 
-
+op:
+5
+6
+1 2 3 4 5
+(0,1),(0,2),(0,3),(1,2)
