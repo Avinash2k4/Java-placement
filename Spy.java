@@ -17,3 +17,11 @@ public class Spy {
         System.out.println("Not Spy number");
     }
 }
+op:
+1124
+Spy number
+
+Digits: 1, 1, 2, 4
+Sum = 1 + 1 + 2 + 4 = 8
+Product = 1 × 1 × 2 × 4 = 8
+✅ So, 1124 is a Spy Number
