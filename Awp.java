@@ -21,3 +21,8 @@ public class Awp {
 
     }
 }
+
+op:
+Enter the 1st number:4
+Enter the 2nd number:4
+The total:8
