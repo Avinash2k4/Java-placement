@@ -37,11 +37,11 @@ public class Pripalin {
     }
 }
 
-// output:
-// 1.
-// i/p->130
-// o/p->131
+output:
+1.
+i/p->130
+o/p->131
 
-// 2.
-// i/p->99
-// o/p->101
+2.
+i/p->99
+o/p->101
