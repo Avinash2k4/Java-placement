@@ -24,3 +24,13 @@ public class Npalin {
         System.out.println("Next palindrome:"+Result);
     }
 }
+
+op:
+Enter the number:
+130
+Next palindrome:131
+
+op:
+Enter the number:
+30
+Next palindrome:33
