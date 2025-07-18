@@ -20,3 +20,12 @@ public class Diagonal1 {
         Diagonal(word);
     }
 }
+
+op:
+Z
+ O
+  H
+   O
+  H
+ O
+Z
