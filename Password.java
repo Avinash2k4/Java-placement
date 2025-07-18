@@ -25,3 +25,17 @@ public class Password {
         }
     }
 }
+
+//op1:
+// 3107
+// Avinash
+// avinash@gmail.com
+// 128937753
+
+// op2:
+// 344
+// You have balance 2 chance! 
+// 434
+// You have balance 1 chance!
+// 244
+// You already done enough chance.Come again later
