@@ -17,3 +17,12 @@ public class SquareRoot {
         System.out.println("Square root of " + number + " is " + (int)mid);
     }
 } 
+
+op:
+Square root of 8 is 2  
+
+    1.actual value is 2.82842 it gives int of this value to truncate the decimal.
+
+op:
+4
+Square root of 16 is 4 
