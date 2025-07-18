@@ -22,3 +22,9 @@ public class Perfect {
         perfect(a);
     }
 }
+
+op:
+6
+PerfectNo.
+
+    6 → Divisors: 1, 2, 3 → 1 + 2 + 3 = 6 → Perfect number
