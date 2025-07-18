@@ -27,9 +27,9 @@ public class SwaP {
     }
 }
 
-// op1:
-// 1345
-// Swapped number:5341
-// op2:
-// 2
-// Swapped number:2
+op1:
+1345
+Swapped number:5341
+op2:
+2
+Swapped number:2
