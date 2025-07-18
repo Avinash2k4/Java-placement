@@ -29,3 +29,9 @@ public class Strong {
         isStrong(num);
     }
 }
+
+op:
+145
+Strong number
+    
+1!+4!+5!=1+24+120=145
