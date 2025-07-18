@@ -17,3 +17,20 @@ public class Diagonal2 {
         }
     }
 }
+
+op:
+ZOHO
+Z   O 
+ O H
+ O H
+Z   O
+
+op:
+avinash
+a      h 
+ v    s
+  i  a
+   n
+  i  a
+ v    s
+a      h
